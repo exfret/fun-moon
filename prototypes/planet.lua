@@ -4,6 +4,7 @@ fun_moon.name = "fun-moon"
 fun_moon.distance = gleba.distance + 2
 fun_moon.orientation = gleba.orientation - 0.015
 fun_moon.magnitude = 0.5
+fun_moon.solar_power_in_space = gleba.solar_power_in_space - 0.04
 fun_moon.draw_orbit = false
 fun_moon.icon = "__fun-moon__/graphics/icons/fun-moon.png"
 fun_moon.icon_size = 720
@@ -24,8 +25,8 @@ fun_moon.map_gen_settings.autoplace_settings.tile.settings = {
     ["red-desert-1"] = {},
     ["red-desert-2"] = {},
     ["red-desert-3"] = {},
-    ["water"] = {},
-    ["deepwater"] = {},
+    ["water2"] = {},
+    ["deepwater2"] = {},
 }
 -- Get rid of most ores
 fun_moon.map_gen_settings.autoplace_settings.entity.settings = {

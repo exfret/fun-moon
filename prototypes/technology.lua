@@ -14,7 +14,8 @@ data:extend({
             },
         },
         prerequisites = {
-            "agricultural-science-pack"
+            "agricultural-science-pack",
+            "recycling"
         },
         effects = {
             { type = "unlock-space-location", space_location = "fun-moon" }

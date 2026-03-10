@@ -1,4 +1,6 @@
 require("prototypes.entity.cheeseman")
 require("prototypes.entity.cheeseman-den")
+require("prototypes.fluid")
 require("prototypes.planet")
 require("prototypes.technology")
+require("prototypes.tile")

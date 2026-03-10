@@ -1,0 +1,12 @@
+{
+    "name": "fun-moon",
+    "version": "0.0.1",
+    "title": "Fun Moon",
+    "author": "exfret",
+    "factorio_version": "2.0",
+    "description": "One small step for man, one giant leap backward for mankind.",
+    "dependencies": [
+        "base >= 2.0.0",
+        "space-age"
+    ]
+}
